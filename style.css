@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight{
+    color: hotpink;
+}
+h1{
+    font-size: 40px;
+
+}
+h2{
+  font-size: 30px;
+}
+p{
+    color: dimgray;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+section{
+     height: 500px; 
+    padding-bottom: 150px;
+
+}
+
+
+
+.half-width img{
+    margin-top: 15px;
+    width: 90%;
+}
+
+.link-button{
+    
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+     background-color: orange;
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 700;
+     }
+      
+
+.about-area{
+    margin-right: 5%;
+    padding-right: 2%;
+      
+}
+
+.orange-highlight{
+    color: orange;
+}
+#center-align{
+    text-align: center;
+}
+
+.work-items img{
+     height: 100%;
+     width: 31.2%;  
+    float: left;
+     padding: 0 0 20px 0; 
+ 
+}
+
+.contact{
+        height: 225px;
+        width: 906px;
+        left: 267px;
+        top: 2116px;
+        border-radius: 30px;
+        background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+        margin: auto;
+        
+
+}
+
+.contact h1{
+    color: white;
+    padding-left: 300px;
+    padding-top: 60px; 
+    
+     
+}
+
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    background-color:hotpink;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    color: white;
+    font-weight: 700;
+    float: right;
+    margin-right: 400px;
+    
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+
+
